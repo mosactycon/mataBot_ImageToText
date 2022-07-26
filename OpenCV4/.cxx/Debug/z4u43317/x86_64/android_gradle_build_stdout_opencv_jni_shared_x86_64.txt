@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot appPackage\2extract text from image\OpenCV4\.cxx\Debug\z4u43317\x86_64'
+ninja: no work to do.

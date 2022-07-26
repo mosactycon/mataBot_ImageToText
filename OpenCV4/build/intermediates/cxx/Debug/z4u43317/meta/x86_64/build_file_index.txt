@@ -1,0 +1,1 @@
+D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot appPackage\2extract text from image\OpenCV4\libcxx_helper\CMakeLists.txt
